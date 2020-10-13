@@ -1,3 +1,4 @@
+```
 ##自己定义函数   Making your own functions
 
 john <- function(x) {(8/(1+x^2))*exp(-2*x)}
@@ -10,3 +11,4 @@ john(myx)
 
 y<- john(myx)
 plot(myx,y)
+```
